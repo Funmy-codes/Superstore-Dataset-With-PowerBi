@@ -19,23 +19,26 @@ This project provides a comprehensive sales analysis of a fictional Super Store 
 ## Visualizations Included
 The PDF file contains several visualizations that provide a comprehensive overview of the Superstore:
 
-Sales by Customer Segment:
-
-Highest sales observed in the Consumer segment.
-Regionally, the Central region had the highest sales volume.
-Sales by Ship Mode:
-
-Regular Air was the most utilized shipping method.
-West region had the highest sales volume for Express Air.
-Time-Based Sales Analysis:
-
-The year 2013 had the highest total sales.
-The East and Central regions consistently performed well across the analyzed years.
-Product Insights:
-
-Technology category had the highest average unit price and profit margin.
-Small Box packaging saw the highest sales.
-   
+ 1.   Sales by Customer Segment:
+        
+      -  Highest sales observed in the Consumer segment.
+      -  Regionally, the Central region had the highest sales volume.
+    
+ 2.   Sales by Ship Mode:
+    
+      -  Regular Air was the most utilized shipping method.
+      -  West region had the highest sales volume for Express Air.
+    
+ 3.   Time-Based Sales Analysis:
+    
+      -  The year 2013 had the highest total sales.
+      -  The East and Central regions consistently performed well across the analyzed years.
+    
+ 4.   Product Insights:
+    
+      -  Technology category had the highest average unit price and profit margin.
+      -  Small Box packaging saw the highest sales.
+           
 ## Usage
 The visualizations in this repository can be used to:
 - Understand the global and regional trends of COVID-19.
