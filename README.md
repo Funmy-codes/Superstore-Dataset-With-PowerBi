@@ -1,6 +1,6 @@
 # Superstore Data Visualizations 📊
 
-This repository contains various visualizations of the COVID-19 dataset by the World Health Organization (WHO). The dataset tracks COVID-19 statistics globally and provides insight into the spread, recovery, and impact of the virus. The visualizations are provided in a PDF format for easy viewing.
+This project provides a comprehensive sales analysis of a fictional Super Store dataset using Power BI Desktop. It offers insights into sales performance across different customer segments, regions, and time periods. The visualizations are provided in a PDF format for easy viewing.
 
 ## Dataset Information
 The dataset contains the following key attributes:
