@@ -2,16 +2,18 @@
 
 This project provides a comprehensive sales analysis of a fictional Super Store dataset using Power BI Desktop. It offers insights into sales performance across different customer segments, regions, and time periods. The visualizations are provided in a PDF format for easy viewing.
 
-## Dataset Information
-The dataset contains the following key attributes:
-- *Country/Region*: The country or region the data belongs to.
-- *Confirmed Cases*: Total number of confirmed COVID-19 cases.
-- *Deaths*: Total number of deaths due to COVID-19.
-- *Recovered*: Total number of recoveries from COVID-19.
-- *Active Cases*: Number of ongoing cases.
-- *New Cases*: Daily new confirmed cases.
-- *New Deaths*: Daily new deaths reported.
-- *WHO Region*: WHO classification of the region.
+## Features
+Sales by Customer Segment and Region: Visualizes sales distribution across four main regions (Central, East, South, West) and customer segments (Corporate, Home Office, Consumer, Small Business).
+
+Sales by Ship Mode and Region: Analyzes sales based on various shipping methods like Regular Air, Delivery Truck, and Express Air, broken down by region.
+
+Sales and Profit Over Time: Tracks both sales and profit from 2010 to 2013, providing a historical performance overview.
+
+Sales by Product Container: Compares sales based on product packaging types, such as Jumbo Box, Large Box, and Small Pack.
+
+Sales and Unit Price by Product Category: Displays sales, profit, and unit price for key product categories: Technology, Furniture, and Office Supplies.
+
+
 
 ## Visualizations Included
 The PDF file contains several visualizations that provide a comprehensive overview of the COVID-19 pandemic:
