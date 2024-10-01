@@ -16,7 +16,7 @@ This project provides a comprehensive sales analysis of a fictional Super Store 
 
 
 
-## Visualizations Included
+## Visualizations and Insights
 The PDF file contains several visualizations that provide a comprehensive overview of the Superstore:
 
  1.   Sales by Customer Segment:
@@ -38,15 +38,7 @@ The PDF file contains several visualizations that provide a comprehensive overvi
     
       -  Technology category had the highest average unit price and profit margin.
       -  Small Box packaging saw the highest sales.
-           
-## Usage
-The visualizations in this repository can be used to:
-- Understand the global and regional trends of COVID-19.
-- Analyze the differences in cases, recoveries, and fatalities across countries and regions.
-- Gain insights into how different regions were impacted and the effectiveness of recovery efforts.
-
+    
 ## How to View
 You can view the visualizations by downloading the PDF file from this repository and opening it with any standard PDF viewer.
 
-## Dataset Source
-The data used for these visualizations were sourced from the [World Health Organization (WHO)](https://www.who.int/), with updates from various global health agencies.
